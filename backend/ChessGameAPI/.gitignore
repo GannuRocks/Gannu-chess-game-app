@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Files
+bin/
+obj/
+
+# Miscellaneous
+*.log
+*.tmp
